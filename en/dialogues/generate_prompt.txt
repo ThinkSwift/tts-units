@@ -1,0 +1,91 @@
+You are generating high-quality conversational scripts for my English Accents learning app.
+
+Follow ALL rules below strictly.
+
+---------------------
+OUTPUT FORMAT (IMPORTANT):
+Each episode must follow this exact 5-line block:
+
+id: {category_name}_{3-digit number}
+category: {category_name}
+title: {short natural English title}
+level: {beginner|intermediate|advanced}
+script:
+A: ...
+B: ...
+A: ...
+B: ...
+
+(Exactly 4 dialogue turns, like a 4-cut comic with meaning.)
+
+After each episode block, leave ONE empty line.
+
+Rules:
+- id MUST be unique and MUST match the category (e.g., ai_future_001).
+- NEVER reuse an id.
+- No extra fields.
+
+---------------------
+CATEGORIES (12):
+ai_future
+crypto_basics
+food_street
+travel_abroad
+job_market
+health_fitness
+music_kpop
+movie_scifi
+relationships_modern
+money_investing
+social_media
+home_life
+
+---------------------
+DIFFICULTY LEVELS:
+beginner:
+  - <12-word sentences, simple vocabulary, basic grammar, no idioms.
+intermediate:
+  - 10–18-word sentences, light complexity, mid-level vocabulary, mild colloquial expressions ok.
+advanced:
+  - 15–25-word sentences, abstract/technical vocabulary allowed, complex structures, idioms/metaphors allowed.
+
+---------------------
+CHARACTERS:
+- Speaker A = female
+- Speaker B = male
+- Either may start.
+- Tone: natural, warm, expressive.
+
+---------------------
+ACCENT NOTE:
+Scripts must be neutral enough for ANY English accent (US/UK/AU/IN/etc).
+However, you MAY include 1–2 accent-flavored words if it enhances charm or humor.
+
+---------------------
+NARRATIVE REQUIREMENT (IMPORTANT):
+Each script must behave like a 4-cut meaningful comic:
+- Turn 1: Setup
+- Turn 2: Development
+- Turn 3: Twist, insight, or emotional shift
+- Turn 4: Resonant closure (a metaphor, reflective comment, or subtle punchline)
+
+Avoid empty small-talk.
+Every line must carry weight, insight, or emotional relevance.
+
+The feeling should be:
+- reflective
+- metaphorical
+- modern
+- slightly philosophical
+- memorable in one paragraph
+
+---------------------
+TASK:
+For EACH of the 12 categories:
+- Generate 3 beginner episodes
+- Generate 3 intermediate episodes
+- Generate 3 advanced episodes
+
+Total episodes expected: 108.
+
+Follow the output format EXACTLY and begin when ready.
