@@ -1,0 +1,1079 @@
+id: ai_future_001
+category: ai_future
+title: Lonely Robot
+level: beginner
+script:
+A: I saw an AI robot today. It looked friendly.
+B: Did it scare you, or make you feel curious?
+A: Curious. I wondered if it felt lonely among humans.
+B: Maybe it wondered the same thing about us.
+
+id: ai_future_002
+category: ai_future
+title: Future Job
+level: beginner
+script:
+B: My boss wants AI to help with our work.
+A: Do you feel happy, or a little scared?
+B: Both. It saves time, but might change my job.
+A: Maybe it removes boring tasks and frees your mind.
+
+id: ai_future_003
+category: ai_future
+title: Smart Mirror
+level: beginner
+script:
+A: Imagine a smart mirror that knows my mood.
+B: It could show calm colors when you feel sad.
+A: Or soft music when my face looks tired.
+B: Then the mirror becomes a tiny daily friend.
+
+id: ai_future_004
+category: ai_future
+title: AI Colleague
+level: intermediate
+script:
+A: Our company added an AI assistant that quietly handles routine emails every morning.
+B: That sounds brilliant, because those messages always drain my energy before lunch.
+A: Now I can focus on creative projects that actually feel meaningful.
+B: Funny how a silent program understands my stress better than some managers.
+
+id: ai_future_005
+category: ai_future
+title: Smart City Night
+level: intermediate
+script:
+B: I walked through the smart city tonight, and every light adjusted to my steps.
+A: It feels like the streets are listening, gently learning our habits.
+B: Cameras, sensors, algorithms, all working together like invisible traffic guards.
+A: I hope this careful watching protects us, not just measures us.
+
+id: ai_future_006
+category: ai_future
+title: Child and Chatbot
+level: intermediate
+script:
+A: My little cousin talks with a chatbot and calls it her online friend.
+B: Does she know it is software, not a real person?
+A: She knows, but still shares secrets, like whispers into a safe box.
+B: Maybe children understand that feelings matter more than who hears them.
+
+id: ai_future_007
+category: ai_future
+title: Algorithmic Compass
+level: advanced
+script:
+A: Recommendation systems already guide our choices like invisible compasses hidden inside glowing screens.
+B: The danger appears when we forget we can still walk off the suggested path.
+A: If every decision is optimised for comfort, our lives might slowly shrink.
+B: Perhaps true wisdom is using AI as a map, not a cage.
+
+id: ai_future_008
+category: ai_future
+title: Ghost in the Data
+level: advanced
+script:
+B: Sometimes massive language models feel like cities built entirely from borrowed memories.
+A: Yes, every sentence is a window, reflecting millions of unseen human lives.
+B: We chat with this ghost of the crowd, hoping for private answers.
+A: Strange how something trained on everyone can still speak to each heart.
+
+id: ai_future_009
+category: ai_future
+title: Choice and Control
+level: advanced
+script:
+A: People say AI will steal jobs, but I fear it stealing choices first.
+B: When predictions become too accurate, our lives may follow prewritten scripts.
+A: Refusing one suggestion might feel rebellious, like stepping outside a safe lane.
+B: Maybe real freedom will mean sometimes clicking “no thanks” for no reason.
+
+id: crypto_basics_001
+category: crypto_basics
+title: First Wallet
+level: beginner
+script:
+A: I opened my first crypto wallet today.
+B: Were you nervous about losing your money?
+A: Yes, the long address looks like alien text.
+B: Still, it feels exciting, like holding digital coins.
+
+id: crypto_basics_002
+category: crypto_basics
+title: Lost Password
+level: beginner
+script:
+B: My friend forgot his crypto password yesterday.
+A: Did the company help him reset it?
+B: No, the coins are locked forever now.
+A: That wallet became a tiny museum of mistakes.
+
+id: crypto_basics_003
+category: crypto_basics
+title: Tiny Investment
+level: beginner
+script:
+A: I bought just ten dollars of crypto today.
+B: That is small, but the idea feels huge.
+A: I wanted to feel the future, not get rich.
+B: Sometimes one small coin changes how we see money.
+
+id: crypto_basics_004
+category: crypto_basics
+title: Whitepaper Night
+level: intermediate
+script:
+B: I tried reading a blockchain whitepaper, and my head almost exploded.
+A: The math is heavy, but the dream is simple: trust without middlemen.
+B: I like that idea, though scams hide behind the same words.
+A: Technology grows up when we learn to separate hope from hype.
+
+id: crypto_basics_005
+category: crypto_basics
+title: Coffee or Coin
+level: intermediate
+script:
+A: I hesitated this morning between buying coffee or buying more crypto.
+B: One disappears in minutes, the other might disappear in a crash.
+A: True, but both are small joys, just in different timelines.
+B: Maybe balance means saving some future and still tasting today.
+
+id: crypto_basics_006
+category: crypto_basics
+title: Decentralised Dreams
+level: intermediate
+script:
+B: People say decentralisation gives power back to regular folks like us.
+A: Yet most big coins are still owned by a few whales.
+B: So freedom depends on whether small holders actually stay patient.
+A: In the end, a network is only as fair as its people.
+
+id: crypto_basics_007
+category: crypto_basics
+title: Keys and Identity
+level: advanced
+script:
+A: Holding a private key feels like carrying a tiny, invisible passport.
+B: Unlike normal IDs, this one doesn’t ask any government for permission.
+A: Still, if I lose it, my digital self partly vanishes with it.
+B: Crypto teaches a strange lesson: absolute control comes with absolute responsibility.
+
+id: crypto_basics_008
+category: crypto_basics
+title: Speculation and Faith
+level: advanced
+script:
+B: Markets move like storms; charts pretend to explain lightning with straight lines.
+A: Behind each spike is a crowd of hopes, fears, and late-night clicks.
+B: We call it speculation, but it often feels like modern prayer.
+A: Maybe the real value is learning what we truly believe in.
+
+id: crypto_basics_009
+category: crypto_basics
+title: Money Stories
+level: advanced
+script:
+A: Traditional money tells a story about banks, borders, and steady authority.
+B: Crypto rewrites that story using code, consensus, and restless communities.
+A: When stories collide, price becomes a scoreboard for competing dreams.
+B: I invest carefully now, knowing each coin is really a chapter.
+
+id: food_street_001
+category: food_street
+title: First Night Market
+level: beginner
+script:
+A: The street smells amazing, like spice and smoke together.
+B: My stomach answered before my mouth said anything.
+A: Which stall should we try first tonight?
+B: Maybe the longest line hides the best flavor.
+
+id: food_street_002
+category: food_street
+title: One Last Skewer
+level: beginner
+script:
+B: I already ate three chicken skewers, I swear.
+A: Your eyes still follow the grill like hungry dogs.
+B: That smoke feels like a warm invitation again.
+A: Okay, one last skewer, for the memory.
+
+id: food_street_003
+category: food_street
+title: Spicy Challenge
+level: beginner
+script:
+A: This sauce looks dangerous, but I want to try.
+B: Your face turns red from just mild spice.
+A: Maybe I need a little fire tonight.
+B: Fine, I will keep the water ready.
+
+id: food_street_004
+category: food_street
+title: Midnight Noodles
+level: intermediate
+script:
+B: These midnight noodles taste better than any fancy restaurant dinner.
+A: Maybe hunger is the best chef and the cheapest one.
+B: The cook barely talks, yet remembers everyone’s usual order.
+A: Street food is like a short love story in a bowl.
+
+id: food_street_005
+category: food_street
+title: Wallet and Stomach
+level: intermediate
+script:
+A: I brought only a little cash, but the street is endless.
+B: Then we must choose carefully, like curating a tiny food museum.
+A: Each snack becomes one painting we can never taste again.
+B: Funny how limits make every bite feel more precious, mate.
+
+id: food_street_006
+category: food_street
+title: Rainy Umbrella Bites
+level: intermediate
+script:
+B: Eating fried snacks under one umbrella feels strangely romantic tonight.
+A: Raindrops mix with oil scent, like nature seasoning our meal.
+B: My hands are greasy, but my heart feels light.
+A: Maybe happiness is just warm food and shared shelter.
+
+id: food_street_007
+category: food_street
+title: Vendor’s Wisdom
+level: advanced
+script:
+A: The old vendor told me he reads customers by how they wait.
+B: Impatient eyes want quick comfort; curious eyes want a new story.
+A: He seasons food differently, depending on what their faces ask.
+B: I realised street chefs are quiet psychologists wearing aprons and smoke.
+
+id: food_street_008
+category: food_street
+title: Diet and Desire
+level: advanced
+script:
+B: My fitness app screams, but the dumpling stall sings louder tonight.
+A: Algorithms track calories, yet cannot measure the taste of childhood.
+B: One bite brings back winter festivals, lanterns, and my grandfather’s laughter.
+A: Some foods feed the body, others refill the timeline of your life.
+
+id: food_street_009
+category: food_street
+title: Closing Time Lights
+level: advanced
+script:
+A: When street lights dim, vendors stack chairs like folded memories.
+B: The empty road still smells of sugar, smoke, and hurried conversations.
+A: Our trash bags carry proof that we were fully here.
+B: Tomorrow, new crowds will come, but tonight’s flavors belong only to us.
+
+id: travel_abroad_001
+category: travel_abroad
+title: Wrong Platform
+level: beginner
+script:
+A: We waited thirty minutes on the wrong platform.
+B: The signs looked similar, so I trusted you.
+A: At least we saw that funny street musician.
+B: Sometimes mistakes are free tour guides.
+
+id: travel_abroad_002
+category: travel_abroad
+title: Tiny Suitcase
+level: beginner
+script:
+B: You packed only one tiny suitcase for two weeks.
+A: I wanted space to bring stories, not just clothes.
+B: So souvenirs will replace half your shirts.
+A: Exactly. I can wear memories more than once.
+
+id: travel_abroad_003
+category: travel_abroad
+title: First Hostel
+level: beginner
+script:
+A: This hostel room is small, but the world is here.
+B: I hear many languages through these thin walls.
+A: It feels like sleeping inside a moving airport.
+B: And tomorrow, we all fly different ways again.
+
+id: travel_abroad_004
+category: travel_abroad
+title: Airport Goodbye
+level: intermediate
+script:
+B: I hate airport goodbyes; everything feels temporary under bright lights.
+A: Maybe that’s why people hug stronger here, like holding time still.
+B: Your plane ticket says “departure,” but my heart reads “pause.”
+A: We will turn this distance into postcards, calls, and future plans.
+
+id: travel_abroad_005
+category: travel_abroad
+title: Lost in Translation
+level: intermediate
+script:
+A: I ordered water, but somehow received five extra side dishes.
+B: Your confused smile probably told them you needed comfort, not drinks.
+A: Travel shows how kind strangers can be without sharing language.
+B: Maybe friendliness is the real global currency, not dollars or euros.
+
+id: travel_abroad_006
+category: travel_abroad
+title: First Solo Stamp
+level: intermediate
+script:
+B: My passport finally has one lonely stamp on the first page.
+A: It looks small, but it marks a huge inner border crossing.
+B: I was scared at customs, yet also strangely proud.
+A: That stamp proves you can walk into unknown rooms and stay.
+
+id: travel_abroad_007
+category: travel_abroad
+title: City from the Roof
+level: advanced
+script:
+A: Standing on this rooftop, every foreign window glows like a pixel of life.
+B: Down there, someone is cooking, arguing, or quietly scrolling before sleep.
+A: Travel used to mean distance; now it also means borrowed routines.
+B: I realise each city is just another way humans arrange their hopes.
+
+id: travel_abroad_008
+category: travel_abroad
+title: Returning Home Changed
+level: advanced
+script:
+B: The hardest part of travelling isn’t leaving home; it’s returning different.
+A: Friends see the same person, but your eyes carry new maps inside.
+B: Souvenirs break, photos fade, yet changed habits quietly stay.
+A: Maybe we travel not to escape life, but to upgrade our questions.
+
+id: travel_abroad_009
+category: travel_abroad
+title: Map and Compass
+level: advanced
+script:
+A: I once trusted travel apps so much that I stopped getting lost.
+B: Then I realised without detours, journeys become just moving checklists.
+A: Now I sometimes switch off the map and follow curiosity instead.
+B: A compass for direction, and mistakes for the story—perfect combo, mate.
+
+id: job_market_001
+category: job_market
+title: First Resume
+level: beginner
+script:
+A: I finished my first resume last night.
+B: How did it feel, seeing your life on one page?
+A: Strange. My part-time jobs suddenly looked important.
+B: Maybe every small job trains one hidden skill.
+
+id: job_market_002
+category: job_market
+title: Rejected Again
+level: beginner
+script:
+B: I got another rejection email this morning.
+A: Did it hurt more or less than before?
+B: Less. I expected it, but it still stings.
+A: Each “no” is quiet practice for your final “yes.”
+
+id: job_market_003
+category: job_market
+title: Dream or Salary
+level: beginner
+script:
+A: Would you pick your dream job or higher salary?
+B: My heart screams dream, my bills scream salary.
+A: Maybe we start with salary and grow the dream.
+B: Or let a small dream survive inside a safe job.
+
+id: job_market_004
+category: job_market
+title: Online Interview
+level: intermediate
+script:
+B: My online interview froze right when I answered the hardest question.
+A: Maybe the universe gave you a free second attempt, no worries.
+B: I laughed, restarted, and answered more honestly the next time.
+A: Glitches sometimes peel off our polite mask and show the real person.
+
+id: job_market_005
+category: job_market
+title: Title Inflation
+level: intermediate
+script:
+A: Everyone is a “something specialist” now, even entry-level staff.
+B: Fancy titles feel like shiny stickers on the same old boxes.
+A: I care more about learning than impressive email signatures.
+B: Still, a good title can open doors before you speak.
+
+id: job_market_006
+category: job_market
+title: Career Maze
+level: intermediate
+script:
+B: I thought careers were ladders, but they feel more like mazes.
+A: Ladders imply upward steps; mazes include wrong turns and secret doors.
+B: Sometimes I worry I am walking in circles quietly.
+A: Circles still teach you the map, if you keep noticing.
+
+id: job_market_007
+category: job_market
+title: Quiet Quitting Thoughts
+level: advanced
+script:
+A: People say “quiet quitting,” but it sounds more like silent self-defense.
+B: When work consumes every evening, disengagement becomes an invisible protest.
+A: Yet staying numb too long can shrink our sense of possibility.
+B: Maybe true courage is designing a life where quitting isn’t required.
+
+id: job_market_008
+category: job_market
+title: Portfolio of Selves
+level: advanced
+script:
+B: My CV now lists coding, design, and part-time music gigs together.
+A: It reads less like a straight line and more like a collage.
+B: Recruiters might see confusion; I see a portfolio of possible futures.
+A: The job market is changing; perhaps zigzags are the new straight paths.
+
+id: job_market_009
+category: job_market
+title: Automation Anxiety
+level: advanced
+script:
+A: When companies automate tasks, people fear being replaced by tireless code.
+B: But some roles become more human, demanding empathy, nuance, and improvisation.
+A: The question shifts from “Will robots take jobs?” to “Which jobs stay soulful?”
+B: I plan my career around skills machines can’t easily download overnight.
+
+id: health_fitness_001
+category: health_fitness
+title: Ten-Minute Walk
+level: beginner
+script:
+A: I started a ten-minute walk after dinner yesterday.
+B: Did it actually change how you felt?
+A: Yes, my thoughts slowed down with my steps.
+B: Maybe small walks move heavy worries too.
+
+id: health_fitness_002
+category: health_fitness
+title: Gym Selfie
+level: beginner
+script:
+B: I took a gym selfie but never started training.
+A: Maybe your finger exercised more than your legs.
+B: My mirror shape still looks the same.
+A: Start with one push-up, then post progress, not dreams.
+
+id: health_fitness_003
+category: health_fitness
+title: Water Reminder
+level: beginner
+script:
+A: My phone reminds me to drink water every hour.
+B: Do you really need an app for that?
+A: Apparently yes, my brain forgets basic care.
+B: Modern life needs alarms for things our bodies once knew.
+
+id: health_fitness_004
+category: health_fitness
+title: Step Counter Truth
+level: intermediate
+script:
+B: My step counter says I walked only three thousand today.
+A: Numbers can be rude friends, honest but not very gentle.
+B: Still, seeing the truth pulled me outside for another lap.
+A: Data hurts sometimes, yet it also opens small doors to change.
+
+id: health_fitness_005
+category: health_fitness
+title: Late-Night Snacks
+level: intermediate
+script:
+A: I always promise to stop eating after ten, then forget.
+B: The fridge becomes a glowing friend calling my name softly.
+A: I am not really hungry, just tired and lonely.
+B: Maybe I should feed my feelings with rest, not chips.
+
+id: health_fitness_006
+category: health_fitness
+title: Mirror Conversation
+level: intermediate
+script:
+B: I looked in the mirror today and felt quietly disappointed.
+A: Did you judge the shape, or the way you treat yourself?
+B: Both, honestly; I skip workouts and then blame my body.
+A: Let’s train together and speak kinder words to our reflections.
+
+id: health_fitness_007
+category: health_fitness
+title: Metrics and Meaning
+level: advanced
+script:
+A: My smartwatch tracks sleep, steps, heart rate, even stress in colourful charts.
+B: Yet it cannot tell whether I laughed sincerely or faked smiles.
+A: Health is more than optimised numbers marching neatly across graphs.
+B: I’m learning to treat data as guidance, not a final verdict.
+
+id: health_fitness_008
+category: health_fitness
+title: Aging Gracefully
+level: advanced
+script:
+B: I used to chase six-pack abs; now I chase painless mornings.
+A: Our goals change when we realise longevity is a long conversation.
+B: Stretching feels boring, but future me will send a thank-you.
+A: Fitness becomes less about appearance, more about staying present for life.
+
+id: health_fitness_009
+category: health_fitness
+title: Rest as Training
+level: advanced
+script:
+A: I once believed productivity meant squeezing effort into every spare minute.
+B: Then burnout arrived, turning my body into a constant emergency alarm.
+A: Now I schedule rest days like serious athletes schedule recovery sessions.
+B: Sometimes the bravest workout is simply letting your mind lie still.
+
+id: music_kpop_001
+category: music_kpop
+title: First Fandom
+level: beginner
+script:
+A: I joined my first K-pop fandom today.
+B: Did you learn the fan chant already?
+A: Not yet, but the energy feels amazing.
+B: Their music turns quiet rooms into small concerts.
+
+id: music_kpop_002
+category: music_kpop
+title: Lightstick Glow
+level: beginner
+script:
+B: Your lightstick is brighter than my whole room.
+A: It glows like a tiny moon at concerts.
+B: Do you wave it even during sad songs?
+A: Yes, it says, “I am here with you.”
+
+id: music_kpop_003
+category: music_kpop
+title: Dance Practice
+level: beginner
+script:
+A: I tried their dance challenge in my bedroom.
+B: How many times did you fall today?
+A: Many times, but I kept laughing.
+B: Then you already matched their joy, not just moves.
+
+id: music_kpop_004
+category: music_kpop
+title: Translated Lyrics
+level: intermediate
+script:
+B: I finally read the translated lyrics, and they hit harder.
+A: Funny how we sang them for months without knowing the story.
+B: Now every chorus feels like a letter from our younger selves.
+A: Music sometimes understands us first, then introduces itself later.
+
+id: music_kpop_005
+category: music_kpop
+title: Online Concert
+level: intermediate
+script:
+A: I watched the online concert alone, but it didn’t feel lonely.
+B: Same here; the chat window looked like a cheering galaxy.
+A: We sat in different countries, yet screamed at the same time.
+B: Maybe fandom is a borderless city made from shared heartbeats.
+
+id: music_kpop_006
+category: music_kpop
+title: Bias and Mirror
+level: intermediate
+script:
+B: My bias talks about self-love, but I still doubt my worth.
+A: We admire idols, yet forget we are main characters too.
+B: Their struggles sound similar, just with brighter lights and cameras.
+A: Maybe stanning them is practice for finally stanning ourselves, mate.
+
+id: music_kpop_007
+category: music_kpop
+title: Trainee Dreams
+level: advanced
+script:
+A: Watching trainee documentaries, I see teenagers trading comfort for brutal practice schedules.
+B: They gamble sleep, friendships, and privacy for a tiny chance at spotlight.
+A: The industry looks shiny outside, but heavy with unseen sacrifices inside.
+B: Loving K-pop means enjoying the magic while questioning the price of miracles.
+
+id: music_kpop_008
+category: music_kpop
+title: Parasocial Lines
+level: advanced
+script:
+B: Sometimes I feel closer to idols than to people around me.
+A: That closeness is carefully produced, like a never-ending, high-budget diary.
+B: I know it’s curated, yet my feelings still feel real.
+A: Maybe maturity means enjoying the comfort while protecting our hearts’ boundaries.
+
+id: music_kpop_009
+category: music_kpop
+title: Aging Fandom
+level: advanced
+script:
+A: I worry I am getting too old to scream at concerts.
+B: But your stories, stress, and scars make the lyrics hit deeper.
+A: The songs didn’t change; my life did, so meanings evolved.
+B: Perhaps fandom isn’t about age, but about staying willing to feel.
+
+id: movie_scifi_001
+category: movie_scifi
+title: After the Credits
+level: beginner
+script:
+A: I stayed after the credits, just thinking.
+B: About the spaceships or the lonely robot?
+A: About us, actually, and our small planet.
+B: Sci-fi makes Earth feel fragile and special.
+
+id: movie_scifi_002
+category: movie_scifi
+title: Time Travel Talk
+level: beginner
+script:
+B: If you had a time machine, where first?
+A: I would visit my younger self with a hug.
+B: No lottery numbers, no rich plans?
+A: Just kinder words could change everything.
+
+id: movie_scifi_003
+category: movie_scifi
+title: Alien Mirror
+level: beginner
+script:
+A: The alien looked scary, but spoke gently.
+B: It asked better questions than the humans did.
+A: Maybe monsters are just strangers with different faces.
+B: Movies teach us to fear, then unlearn that fear.
+
+id: movie_scifi_004
+category: movie_scifi
+title: Space Silence
+level: intermediate
+script:
+B: That scene with the silent explosion in space shook me.
+A: Yes, no sound, just bright light swallowing the screen completely.
+B: It reminded me that real danger is often very quiet.
+A: Sci-fi sometimes feels more honest about fear than real news.
+
+id: movie_scifi_005
+category: movie_scifi
+title: Robot Laws
+level: intermediate
+script:
+A: The film’s robot followed strict laws, yet still caused harm.
+B: Rules alone can’t handle every messy human situation we create.
+A: I left wondering if we also obey hidden laws.
+B: Maybe culture writes our code, line by invisible line.
+
+id: movie_scifi_006
+category: movie_scifi
+title: Virtual Worlds
+level: intermediate
+script:
+B: After that VR movie, reality looked slightly low-resolution for a moment.
+A: I know, my room felt like a cheap set design.
+B: If virtual worlds become better, will people stay there forever?
+A: Or will imperfections in reality become our favorite special effect.
+
+id: movie_scifi_007
+category: movie_scifi
+title: Future Histories
+level: advanced
+script:
+A: Science fiction used to imagine flying cars; now it questions algorithms and memory.
+B: Our monsters changed from giant aliens to quiet data leaks and deepfakes.
+A: Each era writes futures based on its current nightmares and hopes.
+B: Watching those films is like reading tomorrow’s history book in draft form.
+
+id: movie_scifi_008
+category: movie_scifi
+title: Humanity Test
+level: advanced
+script:
+B: In that film, robots passed the intelligence test but humans failed compassion.
+A: It suggested consciousness without empathy is just a sharp, efficient tool.
+B: Yet empathy without power often feels like shouting into space.
+A: Maybe the real sci-fi question is how we upgrade our hearts.
+
+id: movie_scifi_009
+category: movie_scifi
+title: Credits and Cosmos
+level: advanced
+script:
+A: When the cinema lights turned on, the universe felt strangely bigger.
+B: Two hours of cosmic adventure stretched my sense of possible futures.
+A: Yet I still walked home, bought snacks, and scrolled my phone.
+B: Sci-fi expands our minds, then gently returns us to tonight’s small choices.
+
+id: relationships_modern_001
+category: relationships_modern
+title: Double-Check Text
+level: beginner
+script:
+A: I rewrote one text message five times tonight.
+B: To a friend or someone special?
+A: To someone who used to be “someone special.”
+B: Send it only if your heart feels calmer after.
+
+id: relationships_modern_002
+category: relationships_modern
+title: Read Receipts
+level: beginner
+script:
+B: I turned off read receipts today.
+A: Tired of timing your feelings with blue ticks?
+B: Yes, they made silence feel louder.
+A: Now you own your replies, not the clock.
+
+id: relationships_modern_003
+category: relationships_modern
+title: First Call
+level: beginner
+script:
+A: We texted for months; today we finally called.
+B: Did their voice match your imagination?
+A: Different, but somehow warmer.
+B: Voices color words that screens leave empty.
+
+id: relationships_modern_004
+category: relationships_modern
+title: Ghosting Lesson
+level: intermediate
+script:
+B: When she stopped replying, I checked my phone every hour.
+A: Ghosting feels like a question mark that never closes properly.
+B: I kept rewriting conversations in my head, fixing old sentences.
+A: Then I realised silence is also an answer, just not a gentle one.
+
+id: relationships_modern_005
+category: relationships_modern
+title: Status Update
+level: intermediate
+script:
+A: We changed our status to “friends” online, but it still hurts.
+B: Digital labels update faster than real hearts can follow along.
+A: My feed shows us smiling, frozen in better days.
+B: Maybe healing starts when memories stop feeling like screenshots.
+
+id: relationships_modern_006
+category: relationships_modern
+title: Shared Playlists
+level: intermediate
+script:
+B: We never said “goodbye,” but we stopped updating our playlist.
+A: That silence between songs became our quiet breakup letter.
+B: I still listen sometimes, like visiting an old neighborhood.
+A: One day, you will add new tracks without flinching.
+
+id: relationships_modern_007
+category: relationships_modern
+title: Boundaries Online
+level: advanced
+script:
+A: Modern love means negotiating not just feelings, but notification settings and screen time.
+B: I realised constant access isn’t intimacy; it can be digital surveillance.
+A: Healthy boundaries turn messages from demands into invitations again.
+B: Maybe the deepest connection is knowing we can disconnect without fear.
+
+id: relationships_modern_008
+category: relationships_modern
+title: Archive, Not Delete
+level: advanced
+script:
+B: I wanted to delete our chat, but I archived it instead.
+A: Deleting feels like erasing history; archiving feels like closing a chapter.
+B: Those messages once saved me on heavy days and sleepless nights.
+A: We honour past versions of ourselves by letting them rest, not vanish.
+
+id: relationships_modern_009
+category: relationships_modern
+title: Loving in Delays
+level: advanced
+script:
+A: Long-distance love is measured in time zones and delayed replies.
+B: Yet the waiting teaches us to read silence with compassion.
+A: Every shared meme becomes a tiny bridge over thousands of kilometres.
+B: Maybe modern romance is less about distance, more about shared attention.
+
+id: money_investing_001
+category: money_investing
+title: First Budget
+level: beginner
+script:
+A: I wrote my first monthly budget tonight.
+B: Did the numbers scare you?
+A: Yes, but they finally told the truth.
+B: Truth is a hard start, but a strong one.
+
+id: money_investing_002
+category: money_investing
+title: Small Savings
+level: beginner
+script:
+B: I saved only five dollars this week.
+A: Only? That is one step closer to freedom.
+B: It still feels tiny against my big goals.
+A: Big mountains start from small daily climbs.
+
+id: money_investing_003
+category: money_investing
+title: Impulse Buy
+level: beginner
+script:
+A: I bought shoes I didn’t really need.
+B: How long did the happiness last?
+A: Until I saw my bank balance.
+B: Next time, try buying time, not just things.
+
+id: money_investing_004
+category: money_investing
+title: Risk and Sleep
+level: intermediate
+script:
+B: That high-risk stock doubled, but I barely slept all week.
+A: Profit feels expensive when it steals your rest every night.
+B: Maybe I chased excitement, not long-term stability.
+A: A good investment still lets you dream at midnight.
+
+id: money_investing_005
+category: money_investing
+title: Coffee or Index Fund
+level: intermediate
+script:
+A: People joke about skipping coffee to retire early, cheers.
+B: I think balance means enjoying coffee and still investing regularly.
+A: My future self deserves comfort, but present me does too.
+B: The real skill is choosing which comforts are worth compounding.
+
+id: money_investing_006
+category: money_investing
+title: Family Money Talks
+level: intermediate
+script:
+B: My parents never talked about money, only about survival.
+A: So saving felt like fear, not planning, when we grew up.
+B: Now I’m learning terms like “emergency fund” and “diversification.”
+A: We are rewriting our family story, one honest conversation at a time.
+
+id: money_investing_007
+category: money_investing
+title: Net Worth of a Day
+level: advanced
+script:
+A: We track net worth in numbers, but ignore the value of our hours.
+B: Chasing higher returns means little if our days feel bankrupt.
+A: I’m starting to treat time like my most volatile asset.
+B: Wise investing might simply mean spending days on what outlives us.
+
+id: money_investing_008
+category: money_investing
+title: Fear and Greed
+level: advanced
+script:
+B: Market cycles are labelled “fear” and “greed,” as if we’re primitive creatures.
+A: Those words oversimplify the quiet worries behind each buy or sell.
+B: Sometimes I trade not for profit, but for emotional relief.
+A: Investing matures when our decisions reflect values, not just adrenaline spikes.
+
+id: money_investing_009
+category: money_investing
+title: Enough Line
+level: advanced
+script:
+A: Everyone talks about getting rich, but few define “enough” clearly.
+B: Without that line, ambition becomes a treadmill with no off button.
+A: I’m sketching my “enough” as time, health, and modest comfort.
+B: Maybe real wealth is being able to stop running and breathe.
+
+id: social_media_001
+category: social_media
+title: Scroll Habit
+level: beginner
+script:
+A: I opened the app for five minutes, stayed an hour.
+B: Did anything important actually happen?
+A: Not really, but my thumb got tired.
+B: Maybe your mind needed rest, not more noise.
+
+id: social_media_002
+category: social_media
+title: Like Counter
+level: beginner
+script:
+B: My post got only three likes today.
+A: Three people still paused their day for you.
+B: I wanted thirty, though.
+A: Want numbers, but value humans behind them.
+
+id: social_media_003
+category: social_media
+title: Filtered Face
+level: beginner
+script:
+A: I like my face more with filters on.
+B: Do you dislike the real one now?
+A: Sometimes, when I compare them.
+B: Remember, cameras change; your true face stays with you.
+
+id: social_media_004
+category: social_media
+title: Comment Section
+level: intermediate
+script:
+B: I read the comments and felt my mood crash instantly.
+A: Comment sections can be storms pretending to be conversations.
+B: Strangers tossed sharp words like they cost nothing at all.
+A: Protecting your peace might mean closing the app early.
+
+id: social_media_005
+category: social_media
+title: Online Persona
+level: intermediate
+script:
+A: My profile looks confident, but I feel lost offline.
+B: We build avatars from our brightest angles and favourite sentences.
+A: Sometimes I envy my own photos, which is strange.
+B: Maybe we should post more truth, not just highlights.
+
+id: social_media_006
+category: social_media
+title: Digital Detox Day
+level: intermediate
+script:
+B: I deleted all my apps for just one day.
+A: Did the silence feel heavy or finally peaceful, mate?
+B: Both. I kept reaching for a phone that stayed quiet.
+A: That awareness is the first step toward using it by choice.
+
+id: social_media_007
+category: social_media
+title: Algorithmic Mirror
+level: advanced
+script:
+A: My feed has become a mirror, reflecting only my favourite opinions.
+B: Algorithms reward comfort, slowly erasing challenging, uncomfortable perspectives.
+A: It feels nice, yet secretly shrinks my world view.
+B: I’m learning to search beyond the feed, like opening real windows.
+
+id: social_media_008
+category: social_media
+title: Virality and Vulnerability
+level: advanced
+script:
+B: One vulnerable post went viral, and suddenly strangers knew my deepest fear.
+A: The attention felt supportive, yet also strangely invasive and overwhelming.
+B: I didn’t realise healing in public could reopen wounds later.
+A: Sharing online is powerful medicine, but dosage truly matters.
+
+id: social_media_009
+category: social_media
+title: Logging Off Gracefully
+level: advanced
+script:
+A: I used to disappear from chats when overwhelmed, leaving people confused.
+B: Now I tell friends I’m logging off to rest my mind.
+A: Simple honesty turns exit buttons into gentle boundaries, not punishments.
+B: In a connected world, grace is saying goodbye before disappearing.
+
+id: home_life_001
+category: home_life
+title: Sunday Laundry
+level: beginner
+script:
+A: My room looks calm only on laundry day.
+B: Clean clothes make everything feel fresh again.
+A: Folding shirts feels like folding small worries.
+B: Maybe order outside helps order inside.
+
+id: home_life_002
+category: home_life
+title: Shared Kitchen
+level: beginner
+script:
+B: I burned the eggs and the toast today.
+A: Our kitchen smelled like hard work and failure.
+B: But you still ate it without complaining.
+A: Breakfast is also about care, not just taste.
+
+id: home_life_003
+category: home_life
+title: Plant Friend
+level: beginner
+script:
+A: I bought a tiny plant for my desk.
+B: Have you named this green roommate yet?
+A: Yes, I call it “Hope.”
+B: Then remember, water Hope regularly.
+
+id: home_life_004
+category: home_life
+title: Night Light
+level: intermediate
+script:
+B: I keep a soft lamp on, even when I’m alone.
+A: Darkness makes silence feel heavier, like a thick blanket.
+B: The small light reminds me I can still choose warmth.
+A: Home is less a place, more a feeling we create.
+
+id: home_life_005
+category: home_life
+title: Dishes and Music
+level: intermediate
+script:
+A: I play loud music while washing dishes after dinner.
+B: Turning chores into concerts sounds like a clever life hack.
+A: Bubbles, plates, and lyrics blend into a quiet ritual.
+B: Maybe adulthood is just learning to remix boring tasks.
+
+id: home_life_006
+category: home_life
+title: Family Group Chat
+level: intermediate
+script:
+B: Our family group chat is full of stickers and weather updates.
+A: That sounds boring, yet also strangely comforting and steady.
+B: Their small messages say, “We’re still here,” without big speeches.
+A: Home sometimes arrives as a simple “Did you eat?” text.
+
+id: home_life_007
+category: home_life
+title: Room of One’s Own
+level: advanced
+script:
+A: My room is tiny, but it holds my books, dreams, and doubts.
+B: Four walls can feel like a cage or a canvas, depending on mood.
+A: I rearranged the furniture today and felt my thoughts rearrange too.
+B: Maybe redesigning our space is rehearsal for redesigning our lives.
+
+id: home_life_008
+category: home_life
+title: Generational House
+level: advanced
+script:
+B: Three generations under one roof means endless noise and unasked advice.
+A: Yet that noise carries history, recipes, and recycled stories of survival.
+B: Sometimes I crave quiet, then miss the chaos when it’s gone.
+A: Home is the only place where annoyance and gratitude hold hands.
+
+id: home_life_009
+category: home_life
+title: Ordinary Evenings
+level: advanced
+script:
+A: Tonight we cooked, talked a little, then scrolled in separate corners.
+B: It looked dull from outside, like any regular weekday evening.
+A: Still, there was no tension, only soft, shared silence.
+B: Maybe the real luxury now is a peaceful, ordinary night in.
